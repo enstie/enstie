@@ -1,6 +1,14 @@
-# 💫 About Me:
-My name is Entsie and I'm cool as biscuite 
+Reorder Sections
+Preview
+Markdown
+Copy
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Entsie
+===============================================================================================================================
 
+* 🌍  I'm based in Ghana
+* ✉️  You can contact me at [entsie4561@gmail.com](mailto:entsie4561@gmail.com)
+* 👥  I'm looking to collaborate on All my open source projects
+* 💬  Ask me about I'm cool as Biscuite
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/justice-entsie) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:entsie4561@gmail.com) 
