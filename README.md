@@ -2,10 +2,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Entsie
 ===============================================================================================================================
 
-* 🌍  I'm based in Ghana
+* 🌍  I'm based in Ghana and  I'm cool as Biscuite
 * ✉️  You can contact me at [entsie4561@gmail.com](mailto:entsie4561@gmail.com)
-* 👥  I'm looking to collaborate on All my open source projects
-* 💬  Ask me about I'm cool as Biscuite
+
+ 
 
 ### Socials
 
